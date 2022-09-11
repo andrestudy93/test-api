@@ -1,14 +1,42 @@
-{
-    "users": [
-      {
+[
+    {
         "id": 1,
-        "name": "David",
-        "age": 30
-      },
-      {
-        "name": "John",
+        "title": "URL shortening API landing page",
+        "cover": "https://i.postimg.cc/kGZmn4fs/photo-1.jpg",
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
+    },
+    {
         "id": 2,
-        "age": 40
-      }
-    ]
-  }
+        "title": "title 2",
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
+    },
+    {
+        "id": 3,
+        "title": "title 3",
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
+    },
+    {
+        "id": 4,
+        "title": "title 4",
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
+    },
+    {
+        "id": 5,
+        "title": "title 5",
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
+    },
+    {
+        "id": 6,
+        "title": "title 6",
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
+    },            {
+        "id": 7,
+        "title": "title 7",
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
+    }
+    ,            {
+        "id": 8,
+        "title": "title 8",
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
+    }
+]
