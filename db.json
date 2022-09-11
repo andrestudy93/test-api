@@ -1,4 +1,5 @@
-[
+{
+  "projects":[
     {
         "id": 1,
         "title": "URL shortening API landing page",
@@ -25,5 +26,5 @@
         "title": "title 5",
         "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
     }
-
-]
+ ]
+}
