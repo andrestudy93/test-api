@@ -1,0 +1,23 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrestudy93/test-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrestudy93/test-api/issues"
+  },
+  "homepage": "https://github.com/andrestudy93/test-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
